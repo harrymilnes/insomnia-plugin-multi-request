@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-multi-request",
+  "version": "1.0.0",
+  "repository": "https://github.com/harrymilnes/insomnia-plugin-multi-request",
+  "insomnia": {
+    "name": "insomnia-plugin-multi-request",
+    "displayName": "Multi Request",
+    "description": "Send all requests within a request folder at once"
+  },
+  "author": {
+    "name": "Harry Milnes"
+  },
+  "main": "main.js"
+}
