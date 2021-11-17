@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-multi-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/harrymilnes/insomnia-plugin-multi-request",
   "insomnia": {
     "name": "insomnia-plugin-multi-request",
